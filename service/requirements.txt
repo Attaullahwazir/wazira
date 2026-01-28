@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+requests
+onnxruntime
+numpy
+prometheus_client 

@@ -1,0 +1,1 @@
+add_library(merkle_diff merkle_diff.cpp) 

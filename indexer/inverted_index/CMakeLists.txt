@@ -1,0 +1,1 @@
+add_library(inverted_index inverted_index.cpp) 
